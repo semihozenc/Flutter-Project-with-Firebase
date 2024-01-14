@@ -2,6 +2,13 @@
 
 Firebase firestore database and authentication in flutter.
 
+<img width="550" alt="image" src="https://github.com/semihozenc/Flutter-Project-with-Firebase/assets/100075605/c9f26d4b-2234-40f5-a1a1-e10cf222a148">
+
+
+<img width="550" alt="image" src="https://github.com/semihozenc/Flutter-Project-with-Firebase/assets/100075605/0e7de675-c87f-4390-865f-78847f5925aa">
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
