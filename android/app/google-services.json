@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038718084951",
+    "project_id": "mobil-uygulama-64f5c",
+    "storage_bucket": "mobil-uygulama-64f5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038718084951:android:256fce9c90380801f94012",
+        "android_client_info": {
+          "package_name": "com.example.mobil_uygulama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlqFo35l_uGG2UQqBZ5-Oba0yYRtPsAtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
